@@ -7,10 +7,10 @@ A Retrieval-Augmented Generation (RAG) system that answers complex humanitarian 
 ## Screenshots
 
 **Compare Frameworks Mode — Cross-framework analysis**
-![Compare Mode](screenshots/Screenshot 2 - Compare mode.png)
+![Compare Mode](screenshots/screenshot_1_main.png)
 
 **Main Interface — Sample questions**
-![Main Interface](screenshots/Screenshot 1 - Main interface.png)
+![Main Interface](screenshots/screenshot_2_compare.png)
 
 ---
 
